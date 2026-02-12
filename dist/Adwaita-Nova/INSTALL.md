@@ -12,3 +12,5 @@ This package includes both `gtk-3.0` and `gtk-4.0` CSS files.
 
 Optional: create your own archive locally (not tracked in git):
 `tar -czf Adwaita-Nova.tar.gz Adwaita-Nova`
+
+Important: keep the included `gtk-3.0/assets` and `gtk-4.0/assets` folders next to the CSS files; they provide checkbox/radio symbolic assets.
