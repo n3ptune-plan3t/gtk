@@ -4,6 +4,7 @@ examples = [
   'grid-packing',
   'plugman',
   'search-bar',
+  'adwaita-colorschemes',
   'sunny',
   'window-default',
 ]
